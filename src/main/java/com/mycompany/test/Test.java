@@ -26,5 +26,8 @@ public class Test {
         //introducimos ya el primer dato
         System.out.println("Introduzca un número");
         n1=entrada.nextInt();
+        
+        //Introducmos el segundo dato
+        System.out.println("Introduzca el segundo número");
     }
 }
