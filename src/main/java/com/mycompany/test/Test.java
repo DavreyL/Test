@@ -23,7 +23,8 @@ public class Test {
         //declaramos otra variable para meter los datos de n1 y n2
         int suma;
         
+        //introducimos ya el primer dato
         System.out.println("Introduzca un número");
-        n1=
+        n1=entrada.nextInt();
     }
 }
