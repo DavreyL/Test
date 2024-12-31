@@ -29,5 +29,11 @@ public class Test {
         
         //Introducmos el segundo dato
         System.out.println("Introduzca el segundo número");
+        n2=entrada.nextInt();
+        
+        //finalmente cogemos los datos de n1 y n2 y la introducimos dentro de la variable sum y por ultimo imprimimos
+        suma=n1+n2;
+        
+        System.out.println("La suma es "+suma);
     }
 }
